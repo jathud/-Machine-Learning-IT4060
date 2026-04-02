@@ -1,10 +1,12 @@
 FERPI Project Team Members:
 ---------------------------
-1. Name: Thivakar G
-   Role: Member 1 (Lead Developer - Classification, Preprocessing, Habitation Suitability)
+1. Name: Thivakar G   IT22323170
+   Role: Member 1 ( Classification, Preprocessing, Habitation Suitability)
+   Task 1 and 3
    
-2. Name: Jathudshan
-   Role: Member 2 (Co-Developer - Regression, Clustering, ERAS Strategic Scoring)
+2. Name: Jathudshan  IT22036520  
+   Role: Member 2 ( Regression, Clustering, ERAS Strategic Scoring)
+   Task 2 and 4
 ---------------------------
 Project: Flood Emergency Response Priority Intelligence (Sri Lanka)
-University Module: Machine Learning - IT4060
+Module: Machine Learning - IT4060

@@ -12,6 +12,6 @@ Submission Details:
 Links:
 - GitHub Repository: https://github.com/jathud/-Machine-Learning-IT4060.git
 - YouTube Demo: [PASTE YOUR YOUTUBE LINK HERE]
-- Dataset: [PASTE YOUR DATASET SOURCE LINK HERE]
+- Dataset: https://www.kaggle.com/datasets/dewminimnaadi/sri-lanka-flood-risk-and-inundation-dataset
 ------------------------------------------------------------------
 Final Deliverable: See FERPI_Sri_Lanka_Flood_ML.ipynb for full implementation.
