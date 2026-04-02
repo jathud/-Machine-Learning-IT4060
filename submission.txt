@@ -1,0 +1,17 @@
+Project Name: Flood Emergency Response Priority Intelligence (FERPI)
+------------------------------------------------------------------
+Team Members:
+1. Thivakar G
+2. Jathudshan
+
+Submission Details:
+- Project Domain: Disaster Management & Flood Intelligence
+- Data Source: Real-world Flood Records (Sri Lanka)
+- Machine Learning Tasks: 4 Tasks (Classification, Regression, Clustering, ERAS Scoring)
+
+Links:
+- GitHub Repository: https://github.com/jathud/-Machine-Learning-IT4060.git
+- YouTube Demo: [PASTE YOUR YOUTUBE LINK HERE]
+- Dataset: [PASTE YOUR DATASET SOURCE LINK HERE]
+------------------------------------------------------------------
+Final Deliverable: See FERPI_Sri_Lanka_Flood_ML.ipynb for full implementation.
